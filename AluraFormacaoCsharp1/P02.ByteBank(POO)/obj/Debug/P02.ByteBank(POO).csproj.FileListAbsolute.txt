@@ -1,0 +1,7 @@
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\bin\Debug\P02.ByteBank(POO).exe.config
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\bin\Debug\P02.ByteBank(POO).exe
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\bin\Debug\P02.ByteBank(POO).pdb
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\obj\Debug\P02.ByteBank(POO).csproj.CoreCompileInputs.cache
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\obj\Debug\P02.ByteBank(POO).exe
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\obj\Debug\P02.ByteBank(POO).pdb
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\P02.ByteBank(POO)\obj\Debug\P02.ByteBank(POO).csprojAssemblyReference.cache

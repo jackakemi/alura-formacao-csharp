@@ -1,0 +1,7 @@
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\bin\Debug\1.Condicional.exe.config
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\bin\Debug\1.Condicional.exe
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\bin\Debug\1.Condicional.pdb
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\obj\Debug\P01.Logica.csprojAssemblyReference.cache
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\obj\Debug\P01.Logica.csproj.CoreCompileInputs.cache
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\obj\Debug\1.Condicional.exe
+C:\Users\jackeline.moura\Desktop\alura-formacao-csharp\AluraFormacaoCsharp1\1.Condicional\obj\Debug\1.Condicional.pdb
